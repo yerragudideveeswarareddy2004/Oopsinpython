@@ -1,0 +1,7 @@
+poly means many 
+morphi means forms 
+basically it has many forms 
+In object-oriented programming, it refers to the ability of different classes to respond to the same method name in different ways.
+2 types 
+compile time error - OverLoading
+run time error - OverRiding
